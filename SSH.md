@@ -4,9 +4,9 @@
   
   Optionally add a password to it.
 
-    ```shell
-    ssh-keygen
-    ```
+  ```shell
+  ssh-keygen
+  ```
 
 2. Install the public key on the server
 
