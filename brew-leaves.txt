@@ -1,0 +1,10 @@
+caskroom/cask/brew-cask
+cmake
+gcc
+nmap
+node
+homebrew/versions/node010
+p7zip
+phantomjs
+homebrew/science/r
+wget
